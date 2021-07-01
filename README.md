@@ -1,4 +1,4 @@
-# Digital Printer
+# Digital Typer
 A line-by-line Printer/Typer.
 
 ## How to use:
